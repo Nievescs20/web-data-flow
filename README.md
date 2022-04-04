@@ -11,9 +11,6 @@ Describe dataflow in a Fullstack application (WOW moment)
 
 ## Strategy Guide and Solution
 
-### Diagram
-
-![Web Data Flow](./assets/web-data-flow.png)
 
 The general steps that happen are as follows:
 
